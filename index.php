@@ -108,7 +108,7 @@ font-family: Cutie
 		    type: 'POST',
 		    // make sure you respect the same origin policy with this url:
 		    // http://en.wikipedia.org/wiki/Same_origin_policy
-		    url: 'gif2.php',
+		    url: 'saveresponse.php',
 		    data: {  
 		        'var1': myName,
 		        'var2': email,
