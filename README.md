@@ -1,5 +1,5 @@
 # Tribute-to-APS-Victims
-Facebook apps having only 1 picture in the frame.
+Facebook app having only 1 picture in the frame.
 Demo: https://apps.facebook.com/peshawarattack/
 
 Application plays a background song. 
